@@ -6,4 +6,4 @@ append02
 append03
 Creating a new branch is quick.
 merge master to dev branch.
-Creating a new branch is quick AND simple.
+Creating a new branch is quick & simple.
